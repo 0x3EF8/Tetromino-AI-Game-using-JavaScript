@@ -1,6 +1,6 @@
 # Simple Tetromino (AI) Game using JavaScript
 
-Simple Tetromino(AI) Game with Source Code is a project that is a single-player game where your to form a horizontal line to get a score. The game has a simple design that draw a color blocks. The purpose of the provide fun and enjoyable time with your friends.
+Simple Tetromino(AI) Game is a project that is a single-player game where your to form a horizontal line to get a score. The game has a simple design that draw a color blocks. The purpose of the provide fun and enjoyable time with your friends.
 
 ![img](./tetrominoai-game-using-javascript.png)
 
